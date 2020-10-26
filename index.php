@@ -1,11 +1,8 @@
 <?php
 /*
  * GG plugins
- * https://qiita.com/TanakanoAnchan/items/f1191c4c008f0a2b7c2e
- * https://oxynotes.com/?p=9321#3
- *
   Plugin Name: ggProtectedContents
-  Plugin URI:
+  Plugin URI: https://github.com/yamadante/gg-protected-contents
   Description: 指定コンテンツにWPユーザー権限に応じて閲覧制限をかける
   Version: 1.0.0
   Author: Yamadante
